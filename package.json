@@ -1,0 +1,6 @@
+{
+  "name": "tool-app58",
+  "version": "1.4.0",
+  "private": true,
+  "scripts": {"start": "node ."}
+}
